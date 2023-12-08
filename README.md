@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=40&pause=1000&center=true&vCenter=true&width=435&height=80&lines=%E8%90%8C%E4%B9%9F;MoeToo;Welcome)](https://git.io/typing-svg)
 ## Hey there!✨
 I'm a student from Shenzhen, PRC.//    
-An Anime Lover.// 
-Creating someting interesting.//
+An Anime Lover.//   
+Creating someting interesting.//  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=moetoo.githubpage&left_color=green&right_color=red)
 
